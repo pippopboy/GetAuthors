@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:Form1.Designer.cs" caret="0" fromTop="0" />
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:Form1.cs" caret="379" fromTop="16" />
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:app.config" caret="1822" fromTop="34" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:Form1.cs" caret="465" fromTop="20" />
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:Form1.cs" caret="13" fromTop="0" />
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:app.config" caret="0" fromTop="0" />
+      <File id="B920A4E1-CF13-4088-A09E-58B36F58777A/f:app.config" caret="1822" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="GetAuthors" priority="0" />
+      <Item value="OptionService" priority="0" />
+      <Item value="OptionClient`0" priority="0" />
+      <Item value="optionClient" priority="2" />
+      <Item value="new" priority="0" />
+      <Item value="OptionClient" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GetAuthors.OptionService.OptionClient">
+      <Item value="Getauthors`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GetAuthors.OptionService.Author">
+      <Item value="GroupName" priority="0" />
+      <Item value="ProjectName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

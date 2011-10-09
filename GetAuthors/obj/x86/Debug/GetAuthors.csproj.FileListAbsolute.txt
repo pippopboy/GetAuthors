@@ -1,0 +1,10 @@
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\bin\Debug\GetAuthors.exe.config
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\bin\Debug\GetAuthors.exe
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\bin\Debug\GetAuthors.pdb
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GetAuthors.Form1.resources
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GetAuthors.Properties.Resources.resources
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GetAuthors.exe
+D:\Study\Web Service Technologies\CNDVW\ThucHanh\GetAuthors\GetAuthors\obj\x86\Debug\GetAuthors.pdb
